@@ -1,0 +1,11 @@
+# Bỏ qua tất cả các file
+*
+
+# Ngoại trừ file .py
+!*.py
+
+# Ngoại trừ các thư mục
+!*/
+
+# Ngoại trừ tệp .gitignore
+!.gitignore
